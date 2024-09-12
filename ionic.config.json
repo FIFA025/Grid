@@ -1,0 +1,7 @@
+{
+  "name": "myappGird",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
